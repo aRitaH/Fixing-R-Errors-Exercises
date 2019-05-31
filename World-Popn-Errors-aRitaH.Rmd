@@ -153,6 +153,7 @@ ctwidePct <-  ctprop %>%
   spread(Continent, PctF)
 
 ctwidePct %>%  kable()
+
 ```
 
 ## Session Information
